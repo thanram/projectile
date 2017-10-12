@@ -1,1 +1,25 @@
 # projectile
+
+[![Build Status](https://travis-ci.org/thanram/projectile.svg?branch=master)](https://travis-ci.org/thanram/projectile)
+
+(failed)
+
+
+2) [5-pts] In the context of Question 1, how should the trajectory produced by the Verlet
+algorithm differ from the Euler integrator we used in the livecode?
+
+Since we are modeling a particle moving in 3 dimensions in the varlet equation compared to in 2 dimensions with the euler integrator, the trajectory will be a spiral instead of a 2 dimensional arc.
+
+
+
+
+
+3. [5-pts] In livecode-projectile.hpp, we defined a type-constructor called VecR2<typename>
+along with operators for addition and scalar multiplication. Does the VecR2<int> type constitute
+a vector space? If yes, prove it. If not, explain why not.
+
+
+the vecr2<int> type does not consitute a vector space because the variable int and double has a limit on how large of a number it can hold by definition. The computers hardware is also a limiting factor on how large the number can be. For it to be a vector space there can be no limit on how large the number can be.
+
+
+
