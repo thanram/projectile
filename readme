@@ -10,4 +10,4 @@ Since we are modeling a particle moving in 3 dimensions in the varlet equation c
 3. [5-pts] In livecode-projectile.hpp, we defined a type-constructor called VecR2<typename>
 along with operators for addition and scalar multiplication. Does the VecR2<int> type constitute
 a vector space? If yes, prove it. If not, explain why not.
- the vecr2<int> type does constitute a vector space as it 
+ the vecr2<int> type does constitute a vector space as 
