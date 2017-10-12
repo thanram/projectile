@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/thanram/projectile.svg?branch=master)](https://travis-ci.org/thanram/projectile)
+
+(failed)
+
+
 2) [5-pts] In the context of Question 1, how should the trajectory produced by the Verlet
 algorithm differ from the Euler integrator we used in the livecode?
 
